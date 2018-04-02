@@ -1,0 +1,7 @@
+The highest score: 97
+The lowest score: 22
+Average score: 69.000000
+Number of score 60-69: 14
+Number of score 70-79: 13
+Number of score 80-89: 11
+Number of score 90-100: 3
